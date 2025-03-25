@@ -12,6 +12,7 @@
 
 ### Contact Us
 - [Connect @ bsky.app](https://bsky.app/profile/markbyers.selfdriven.social)
+- [Connect @ X](https://x.com/selfdrivenMark)
 - [selfdriven.foundation/connect](https://selfdriven.foundation/connect)
 
 
