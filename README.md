@@ -5,7 +5,7 @@
 - Seeking funding support
 
 ### Resources
-- [**GitHub Repo**](https://github.com/selfdriven-foundation/cdri)
+- [**GitHub Repo**](https://github.com/selfdriven-foundation/cdri) - research, data, images etc
 - [cardano.build](https://cardano.build)
 - [cardanowallets.io](https://cardanowallets.io)
 
