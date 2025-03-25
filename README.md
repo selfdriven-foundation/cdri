@@ -1,4 +1,4 @@
-### Cardano Developer Resource Index
+### Cardano Developer Resource Index (CDRI)
 
 ### Status
 - Research & Development
